@@ -5,7 +5,7 @@
 <nav class="bg-dark" style="font-family:'Consolas'">
     <ul class="nav justify-content-center">
         <li class="nav-item">
-          <a class="nav-link" href="#!"> my-profile/social </a>
+          <a class="nav-link" href="/routes/social.svelte"> my-profile/social </a>
         </li>
         <li class="nav-item">
           <a class="nav-link disabled" href="#!"> my-profile/about </a>
