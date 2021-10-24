@@ -19,7 +19,7 @@
     <!-- Content -->
     <br/>
     <div style="text-align: center">
-        <img style= "border-radius: 50%" src="/static/profile-picture.jpg" alt="profile picture" width="240" height="240"/>
+        <img style= "border-radius: 50%" src="profile-picture.jpg" alt="profile picture" width="240" height="240"/>
     <!-- These <p> tags are emptied purposely-->
     <p> </p>
     <h6 style="font-family: 'Consolas'; color: slateblue"> 🌱 <b> Khai Xiang Lim </b> </h6>
@@ -41,7 +41,7 @@
             <td>
                 <!-- first project slot -->
                 <div class="card">
-                    <img class="card-img-top" src="/static/project-1.jpg" alt="project-1 card image">
+                    <img class="card-img-top" src="project-1.jpg" alt="project-1 card image">
                     <div class="card-body">
                       <h4 class="card-title" style="font-family: 'Consolas'; background-color: slateblue; color: white"> > Play with Colors</h4>
                       <p class="card-text" style="color: slateblue; font-family: 'Consolas">
@@ -53,7 +53,7 @@
             </td>
             <td>
                 <div class="card">
-                    <img class="card-img-top" src="/static/project-2.jpg" alt="project-2 card image">
+                    <img class="card-img-top" src="project-2.jpg" alt="project-2 card image">
                     <div class="card-body">
                       <h4 class="card-title" style="font-family: 'Consolas'; background-color: slateblue; color: white"> > My Profile </h4>
                       <p class="card-text" style="color: slateblue; font-family: 'Consolas">
