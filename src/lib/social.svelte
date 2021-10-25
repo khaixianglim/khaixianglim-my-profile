@@ -25,3 +25,6 @@
         padding: 80px;
     }
 </style>
+<script>
+  export let social;
+</script>

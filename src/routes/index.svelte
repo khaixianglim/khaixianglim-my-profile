@@ -1,11 +1,12 @@
 <header>
+    <h3> <mark> <b>khaixianglim</b> </mark></h3>
     <p style="font-size: 68pt"> my profile/<mark>about</mark></p>
     <h6><b> Hello, there! </b></h6>
 </header>
 <nav class="bg-dark" style="font-family:'Consolas'">
     <ul class="nav justify-content-center">
         <li class="nav-item">
-          <a class="nav-link" href="/routes/social.svelte"> my-profile/social </a>
+          <a class="nav-link" href=""> my-profile/social </a>
         </li>
         <li class="nav-item">
           <a class="nav-link disabled" href="#!"> my-profile/about </a>
@@ -101,3 +102,7 @@
         margin: auto;
     }
 </style>
+<!-- JS -->
+<script>
+  import social from "$lib/social.svelte"
+</script>
